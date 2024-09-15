@@ -40,8 +40,13 @@
                 </div>
 
                 <div class="mt-3 d-flex align-items-center">
+
                     <button type="button" id="saveButton" class="btn btn-primary me-2">Save</button>
+
+                    <button type="button" id="highlightButton" class="btn btn-secondary me-2">Highlight Code</button>
+
                     <select class="form-select w-auto" id="selectedLanguage">
+
                         <option selected>Select Language</option>
                         <option value="csharp">C#</option>
                         <option value="python">Python</option>
@@ -50,12 +55,62 @@
 
                     </select>
                 </div>
-                               
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <button id="copyButton" class="btn btn-success mb-3" style="display: none;">Copy to Clipboard</button>
+                <div id="highlightedCodeContainer"></div>
             </div>
         </div>
     </div>
 
     <script>
+
+        document.getElementById('highlightButton').addEventListener('click', function () {
+            const code = document.getElementById('codeInput').value;
+            const language = document.getElementById('selectedLanguage').value;
+
+
+            fetch('/Highlight/HighlightSyntax', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ Text: code, Language: language })
+            })
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('highlightedCodeContainer').innerHTML = data.highlightedCode;
+                    Prism.highlightAll();
+                    document.getElementById('copyButton').style.display = 'inline-block';
+                });
+        });
+
+        document.getElementById('copyButton').addEventListener('click', function () {
+
+            const highlightedCodeContainer = document.getElementById('highlightedCodeContainer');
+            const highlightedCodeHTML = highlightedCodeContainer.innerHTML;
+
+            const tempDiv = document.createElement('div');
+            tempDiv.innerHTML = highlightedCodeHTML;
+            document.body.appendChild(tempDiv);
+
+            const range = document.createRange();
+            range.selectNode(tempDiv);
+            window.getSelection().removeAllRanges();
+            window.getSelection().addRange(range);
+
+            document.execCommand('copy');
+
+            document.body.removeChild(tempDiv);
+            window.getSelection().removeAllRanges();
+        });
+
+
         document.getElementById('saveButton').addEventListener('click', function (event) {
             event.preventDefault();  
 
@@ -92,5 +147,6 @@
                     alert('Failed to save the note: ' + error.message);
                 });
         });
+
     </script>
 </body>
