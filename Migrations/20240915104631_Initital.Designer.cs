@@ -12,8 +12,8 @@ using pet2.Data;
 namespace pet2.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240915095420_Initial")]
-    partial class Initial
+    [Migration("20240915104631_Initital")]
+    partial class Initital
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -31,7 +31,7 @@ namespace pet2.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<DateTime>("CreationdDate")
+                    b.Property<DateTime>("CreationTime")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Language")

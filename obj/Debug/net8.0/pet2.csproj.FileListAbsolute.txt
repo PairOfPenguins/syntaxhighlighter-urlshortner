@@ -134,3 +134,4 @@ C:\Users\user\Desktop\.NET\pet2\obj\Debug\net8.0\refint\pet2.dll
 C:\Users\user\Desktop\.NET\pet2\obj\Debug\net8.0\pet2.pdb
 C:\Users\user\Desktop\.NET\pet2\obj\Debug\net8.0\pet2.genruntimeconfig.cache
 C:\Users\user\Desktop\.NET\pet2\obj\Debug\net8.0\ref\pet2.dll
+C:\Users\user\Desktop\.NET\pet2\obj\Debug\net8.0\pet2.sourcelink.json
