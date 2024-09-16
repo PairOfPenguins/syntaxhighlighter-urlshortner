@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\.NET\\pet2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|c:\\users\\user\\desktop\\.net\\pet2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|c:\\users\\user\\desktop\\.net\\pet2\\views\\share\\noteshare.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:views\\share\\noteshare.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\controllers\\highlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:controllers\\highlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|c:\\users\\user\\desktop\\.net\\pet2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\controllers\\addcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:controllers\\addcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|c:\\users\\user\\desktop\\.net\\pet2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|c:\\users\\user\\desktop\\.net\\pet2\\controllers\\sharecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:controllers\\sharecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\controllers\\highlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:controllers\\highlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\models\\addnoteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,57 +54,33 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-15T12:26:11.536Z",
+              "DocumentIndex": 0,
+              "Title": "NoteShare.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Views\\Share\\NoteShare.cshtml",
+              "RelativeDocumentMoniker": "Views\\Share\\NoteShare.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Views\\Share\\NoteShare.cshtml",
+              "RelativeToolTip": "Views\\Share\\NoteShare.cshtml",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T12:14:00.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "HighlightController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Controllers\\HighlightController.cs",
               "RelativeDocumentMoniker": "Controllers\\HighlightController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Controllers\\HighlightController.cs",
               "RelativeToolTip": "Controllers\\HighlightController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAABoAAAANAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T12:06:22.944Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20240915104631_Initital.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Migrations\\20240915104631_Initital.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240915104631_Initital.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Migrations\\20240915104631_Initital.cs",
-              "RelativeToolTip": "Migrations\\20240915104631_Initital.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:46:31.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Note.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Models\\Entities\\Note.cs",
-              "RelativeDocumentMoniker": "Models\\Entities\\Note.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Models\\Entities\\Note.cs",
-              "RelativeToolTip": "Models\\Entities\\Note.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:14:04.856Z"
             },
             {
               "$type": "Document",
@@ -106,14 +90,14 @@
               "RelativeDocumentMoniker": "Controllers\\AddController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Controllers\\AddController.cs",
               "RelativeToolTip": "Controllers\\AddController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCMAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T10:08:48.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AddNoteViewModel.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Models\\AddNoteViewModel.cs",
               "RelativeDocumentMoniker": "Models\\AddNoteViewModel.cs",
@@ -125,13 +109,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T09:42:36.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAEEAAABWAAAA",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAHUAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-15T10:03:23.187Z",
               "EditorCaption": ""
@@ -146,19 +143,57 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAmwAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T09:54:03.826Z"
+              "WhenOpened": "2024-09-15T09:54:03.826Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAUwCgAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "ShareController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Controllers\\ShareController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShareController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Controllers\\ShareController.cs",
+              "RelativeToolTip": "Controllers\\ShareController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T09:42:36.434Z"
+              "WhenOpened": "2024-09-16T12:11:15.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Models\\Entities\\Note.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Note.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Models\\Entities\\Note.cs",
+              "RelativeToolTip": "Models\\Entities\\Note.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:14:04.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240915104631_Initital.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Migrations\\20240915104631_Initital.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240915104631_Initital.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Migrations\\20240915104631_Initital.cs",
+              "RelativeToolTip": "Migrations\\20240915104631_Initital.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:46:31.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-15T12:26:11.536Z"
             }
           ]
         }

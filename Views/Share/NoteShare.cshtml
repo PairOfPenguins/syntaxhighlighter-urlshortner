@@ -1,0 +1,101 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model pet2.Models.Entities.Note;
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - pet2</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/pet2.styles.css" asp-append-version="true" />
+
+    @* PrismJs loading *@
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.28.0/themes/prism-okaidia.min.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.28.0/prism.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.28.0/components/prism-csharp.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.28.0/components/prism-python.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.28.0/components/prism-kotlin.min.js"></script>
+
+</head>
+
+<body style="background-color:#36393e">
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-8 p-2 rounded" style="background-color:#63666a">
+                <h1 class="text-center">Share your code</h1>
+                <p class="text-center">Free way to share your code with short urls and syntax highlighting</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+
+                <div class="form-group">
+                    <textarea disabled id="codeInput" class="form-control" rows="20"
+                              style="background-color:#f8f9fa; color:black; resize:none">@Model.Text;</textarea>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+
+                <button id="copyButton" class="btn btn-success mb-3">Copy to Clipboard</button>
+                <div id="highlightedCodeContainer"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+
+            const code = @Html.Raw(Json.Serialize(Model.Text));
+            const language = '@Model.Language';
+
+            fetch('/Highlight/HighlightSyntax', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ Text: code, Language: language })
+            })
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('highlightedCodeContainer').innerHTML = data.highlightedCode;
+                    Prism.highlightAll();
+                });
+        });
+
+        document.getElementById('copyButton').addEventListener('click', function () {
+
+            const highlightedCodeContainer = document.getElementById('highlightedCodeContainer');
+            const highlightedCodeHTML = highlightedCodeContainer.innerHTML;
+
+            const tempDiv = document.createElement('div');
+            tempDiv.innerHTML = highlightedCodeHTML;
+            document.body.appendChild(tempDiv);
+
+            const range = document.createRange();
+            range.selectNode(tempDiv);
+            window.getSelection().removeAllRanges();
+            window.getSelection().addRange(range);
+
+            document.execCommand('copy');
+
+            document.body.removeChild(tempDiv);
+            window.getSelection().removeAllRanges();
+        });
+
+    </script>
+
+
+</body>

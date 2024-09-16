@@ -41,7 +41,7 @@
 
                 <div class="mt-3 d-flex align-items-center">
 
-                    <button type="button" id="saveButton" class="btn btn-primary me-2">Save</button>
+                    <button type="button" id="saveButton" class="btn btn-primary me-2" disabled>Save</button>
 
                     <button type="button" id="highlightButton" class="btn btn-secondary me-2">Highlight Code</button>
 
@@ -93,6 +93,7 @@
                     document.getElementById('highlightedCodeContainer').innerHTML = data.highlightedCode;
                     Prism.highlightAll();
                     document.getElementById('copyButton').style.display = 'inline-block';
+                    document.getElementById('saveButton').disabled = false;
                 });
         });
 

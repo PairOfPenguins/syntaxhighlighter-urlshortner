@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using pet2.Controllers;
 using pet2.Data;
 
 namespace pet2
@@ -15,7 +16,7 @@ namespace pet2
 
             var app = builder.Build();
 
-            
+
             if (!app.Environment.IsDevelopment())
             {
                 app.UseExceptionHandler("/Home/Error");
@@ -33,6 +34,11 @@ namespace pet2
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}");
+
+            app.MapControllerRoute(
+                name: "share",
+                pattern: "{id:guid}",
+                defaults: new { controller = "Share", action = "NoteShare" });
 
             app.Run();
         }
