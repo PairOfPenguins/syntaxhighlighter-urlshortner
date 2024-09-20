@@ -148,10 +148,10 @@
                 .then(data => {
                     console.log('Response Data:', data);  // Log the full data to debug
 
-                    if (data.note && data.note.ShortUrl) {
+                    if (data.note && data.note.shortUrl) {
                         const noteIdBlock = document.getElementById('noteUrlBlock');
                         const noteIdSpan = document.getElementById('noteURL');
-                        noteIdSpan.textContent = data.note.ShortUrl;
+                        noteIdSpan.textContent = data.note.shortUrl;
                         noteIdBlock.style.display = 'block';
                     } else {
                         console.error('shorturl not found in response');

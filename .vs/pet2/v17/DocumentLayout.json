@@ -78,8 +78,7 @@
               "RelativeToolTip": "Services\\Implementations\\UrlShortenerService.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAYwDAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T14:31:23.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T14:31:23.183Z"
             },
             {
               "$type": "Document",
@@ -91,8 +90,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAUwBQAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T09:42:36.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T09:42:36.434Z"
             },
             {
               "$type": "Document",
@@ -104,8 +102,7 @@
               "RelativeToolTip": "Models\\Entities\\Note.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAiwAkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:14:04.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T10:14:04.856Z"
             },
             {
               "$type": "Document",
@@ -117,8 +114,7 @@
               "RelativeToolTip": "Controllers\\ShareController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAqwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T12:11:15.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T12:11:15.969Z"
             },
             {
               "$type": "Document",
@@ -130,8 +126,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAmwAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T09:54:03.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T09:54:03.826Z"
             },
             {
               "$type": "Document",
@@ -141,7 +136,7 @@
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAI0AAAAAAAAAAAAAAJYAAAA0AAAA",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAJoAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-15T10:03:23.187Z",
               "EditorCaption": ""
@@ -168,8 +163,7 @@
               "RelativeToolTip": "Models\\AddNoteViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:06:57.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T10:06:57.746Z"
             },
             {
               "$type": "Document",
@@ -181,8 +175,7 @@
               "RelativeToolTip": "Controllers\\AddController.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAYwDEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:08:48.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T10:08:48.065Z"
             },
             {
               "$type": "Document",
@@ -194,8 +187,7 @@
               "RelativeToolTip": "Views\\Share\\NoteShare.cshtml",
               "ViewState": "AQIAAE0AAAAAAAAAAAAAwEgAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-16T12:14:00.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T12:14:00.151Z"
             },
             {
               "$type": "Document",
