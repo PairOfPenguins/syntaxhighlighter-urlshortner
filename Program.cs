@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using pet2.Controllers;
 using pet2.Data;
+using pet2.Services.Implementations;
+using pet2.Services;
 
 namespace pet2
 {
@@ -13,6 +15,10 @@ namespace pet2
             builder.Services.AddControllersWithViews();
 
             builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("NotesPortal")));
+
+            builder.Services.AddHttpClient();
+
+            builder.Services.AddScoped<IUrlShortenerService, UrlShortenerService>();
 
             var app = builder.Build();
 

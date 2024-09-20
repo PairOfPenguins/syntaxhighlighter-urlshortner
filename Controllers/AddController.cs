@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using pet2.Data;
 using pet2.Models;
 using pet2.Models.Entities;
+using pet2.Services;
 
 namespace pet2.Controllers
 {
@@ -10,10 +11,14 @@ namespace pet2.Controllers
     {
         private readonly ApplicationDbContext dbcontext;
 
-        public AddController(ApplicationDbContext dbContext)
+        private readonly IUrlShortenerService _urlShortenerService;
+
+        public AddController(IUrlShortenerService urlShortenerService, ApplicationDbContext dbContext)
         {
             this.dbcontext = dbContext;
+            _urlShortenerService = urlShortenerService;
         }
+
 
         [HttpPost]
         [Route("Add/CreateNote")]
@@ -28,10 +33,18 @@ namespace pet2.Controllers
             {
                 Text = model.Text,
                 CreationTime = DateTime.Now,
-                Language = model.Language
+                Language = model.Language,
+                ShortUrl = string.Empty
             };
 
             await dbcontext.AddAsync(note);
+            await dbcontext.SaveChangesAsync();
+
+            var url = $"{this.Request.Scheme}://{this.Request.Host}{this.Request.PathBase}/{note.Id}";
+
+            note.ShortUrl = await _urlShortenerService.ShortenUrlAsync(url);
+
+            dbcontext.Notes.Update(note);
             await dbcontext.SaveChangesAsync();
 
             return Json(new { note });

@@ -3,48 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\.NET\\pet2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|c:\\users\\user\\desktop\\.net\\pet2\\views\\share\\noteshare.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:views\\share\\noteshare.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|c:\\users\\user\\desktop\\.net\\pet2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\views\\share\\noteshare.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:views\\share\\noteshare.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\controllers\\addcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:controllers\\addcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|c:\\users\\user\\desktop\\.net\\pet2\\controllers\\sharecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:controllers\\sharecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\controllers\\highlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:controllers\\highlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\models\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:models\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\models\\addnoteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:models\\addnoteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\controllers\\sharecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:controllers\\sharecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\services\\implementations\\urlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:services\\implementations\\urlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\services\\iurlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:services\\iurlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\controllers\\highlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:controllers\\highlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\migrations\\20240915104631_initital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:migrations\\20240915104631_initital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\models\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:models\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|C:\\Users\\user\\Desktop\\.NET\\pet2\\Migrations\\20240920134310_ShortUrl Property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDF07A6-7875-402F-A612-C43307C7ACC1}|pet2.csproj|solutionrelative:Migrations\\20240920134310_ShortUrl Property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,88 +66,63 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NoteShare.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Views\\Share\\NoteShare.cshtml",
-              "RelativeDocumentMoniker": "Views\\Share\\NoteShare.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Views\\Share\\NoteShare.cshtml",
-              "RelativeToolTip": "Views\\Share\\NoteShare.cshtml",
-              "ViewState": "AQIAAEoAAAAAAAAAAAAAwFUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-16T12:14:00.151Z",
+              "DocumentIndex": 7,
+              "Title": "UrlShortenerService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Services\\Implementations\\UrlShortenerService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\UrlShortenerService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Services\\Implementations\\UrlShortenerService.cs",
+              "RelativeToolTip": "Services\\Implementations\\UrlShortenerService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T14:31:23.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HighlightController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Controllers\\HighlightController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HighlightController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Controllers\\HighlightController.cs",
-              "RelativeToolTip": "Controllers\\HighlightController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T12:06:22.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AddController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Controllers\\AddController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AddController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Controllers\\AddController.cs",
-              "RelativeToolTip": "Controllers\\AddController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwCoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:08:48.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddNoteViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Models\\AddNoteViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\AddNoteViewModel.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Models\\AddNoteViewModel.cs",
-              "RelativeToolTip": "Models\\AddNoteViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:06:57.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAUwCoAAAAMAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwBQAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T09:42:36.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAAAHUAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-15T10:03:23.187Z",
+              "DocumentIndex": 4,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Models\\Entities\\Note.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Note.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Models\\Entities\\Note.cs",
+              "RelativeToolTip": "Models\\Entities\\Note.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:14:04.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "ShareController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Controllers\\ShareController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShareController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Controllers\\ShareController.cs",
+              "RelativeToolTip": "Controllers\\ShareController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:11:15.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -148,32 +135,95 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ShareController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Controllers\\ShareController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ShareController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Controllers\\ShareController.cs",
-              "RelativeToolTip": "Controllers\\ShareController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAACIAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAJYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T10:03:23.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUrlShortenerService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Services\\IUrlShortenerService.cs",
+              "RelativeDocumentMoniker": "Services\\IUrlShortenerService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Services\\IUrlShortenerService.cs",
+              "RelativeToolTip": "Services\\IUrlShortenerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T12:11:15.969Z",
+              "WhenOpened": "2024-09-20T13:37:53.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddNoteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Models\\AddNoteViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\AddNoteViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Models\\AddNoteViewModel.cs",
+              "RelativeToolTip": "Models\\AddNoteViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:06:57.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Controllers\\AddController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AddController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Controllers\\AddController.cs",
+              "RelativeToolTip": "Controllers\\AddController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:08:48.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteShare.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Views\\Share\\NoteShare.cshtml",
+              "RelativeDocumentMoniker": "Views\\Share\\NoteShare.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Views\\Share\\NoteShare.cshtml",
+              "RelativeToolTip": "Views\\Share\\NoteShare.cshtml",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAwEgAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T12:14:00.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Note.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Models\\Entities\\Note.cs",
-              "RelativeDocumentMoniker": "Models\\Entities\\Note.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Models\\Entities\\Note.cs",
-              "RelativeToolTip": "Models\\Entities\\Note.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Title": "HighlightController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Controllers\\HighlightController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HighlightController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Controllers\\HighlightController.cs",
+              "RelativeToolTip": "Controllers\\HighlightController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:14:04.856Z"
+              "WhenOpened": "2024-09-15T12:06:22.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
+              "Title": "20240920134310_ShortUrl Property.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Migrations\\20240920134310_ShortUrl Property.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240920134310_ShortUrl Property.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Migrations\\20240920134310_ShortUrl Property.cs",
+              "RelativeToolTip": "Migrations\\20240920134310_ShortUrl Property.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:43:11.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "20240915104631_Initital.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\Migrations\\20240915104631_Initital.cs",
               "RelativeDocumentMoniker": "Migrations\\20240915104631_Initital.cs",
@@ -185,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\pet2\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
