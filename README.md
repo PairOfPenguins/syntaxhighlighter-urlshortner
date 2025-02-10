@@ -10,7 +10,7 @@ This is a web application built with ASP.NET Core and EF Core, allowing users to
 ## UI Screenshot
 Here's a screenshot of the app's user interface:
 
-[UI Screenshot](https://github.com/user-attachments/assets/2f2184f4-480f-40f3-a6e7-329b9045535d)
+![UI Screenshot](https://github.com/user-attachments/assets/2f2184f4-480f-40f3-a6e7-329b9045535d)
 
 
 ## Features
