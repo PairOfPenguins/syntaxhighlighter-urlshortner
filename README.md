@@ -33,18 +33,35 @@ Here's a screenshot of the app's user interface:
 - Visual Studio or VS Code
 - SQL Server (or other supported DB for EF Core)
 
+
 ### Steps to Install
-1. Clone the repository:
+
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/PairOfPenguins/syntaxhighlighter-urlshortner.git
-   cd repository-name
-2. Restore dependencies:
+   cd syntaxhighlighter-urlshortner
+   ```
+2. **Restore dependencies:**
    ```bash
    dotnet restore
-4. Set up the database:
+   ```
+3. **Set up connection string in `appsettings.json`:**
+   Open the `appsettings.json` file in the project root and add your connection string. It should look like this:
+   ```json
+   {
+     "ConnectionStrings": {
+       "NotesPortal": "Your connection string here"
+     }
+   }
+   ```
+   Replace `"Your connection string here"` with the actual database connection string.
+
+4. **Update the database:**
    ```bash
    dotnet ef database update
-5. Run the application:
+   ```
+5. **Run the application:**
    ```bash
    dotnet run
-6. Open your browser and navigate to http://localhost:5265 or http://localhost:7067  to use the app
+   ```
+6. **Open your browser** and navigate to `http://localhost:5265` or `http://localhost:7067` to use the app.
